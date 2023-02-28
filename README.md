@@ -7,4 +7,5 @@ First EdCarp in-person community meeting since the pandemic.
 
 ## Slides
 
-You can access the slides from the meeting [here](http://TODO](https://github.com/edcarp/2023-02-24-social/blob/main/slides.pdf)
+You can access the slides from the meeting [here](https://github.com/edcarp/2023-02-24-social/blob/main/slides.pdf).
+
